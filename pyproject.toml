@@ -1,7 +1,7 @@
 [project]
 name = "ecombot"
 version = "0.1.0"
-description = "Telegram Bot for e-commerce with admin panel "
+description = "Telegram Bot for e-commerce with admin panel"
 authors = [
     {name = "dmvaled",email = "dmvaled@gmail.com"}
 ]
