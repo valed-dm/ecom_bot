@@ -1,0 +1,42 @@
+[project]
+name = "ecombot"
+version = "0.1.0"
+description = "Telegram Bot for e-commerce with admin panel "
+authors = [
+    {name = "dmvaled",email = "dmvaled@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.17.1"
+pre-commit = "^4.3.0"
+ruff = "^0.12.11"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.4.1"
+pytest-cov = "^6.2.1"
+pytest-asyncio = "^1.1.0"
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+fix = true
+unsafe-fixes = true
+
+[tool.ruff.lint]
+extend-select = ["E", "F", "W", "I", "B", "Q"]
+
+[tool.ruff.lint.isort]
+force-single-line = true
+combine-as-imports = false
+force-sort-within-sections = true
+lines-after-imports = 2
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
