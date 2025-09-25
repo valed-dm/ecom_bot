@@ -338,47 +338,47 @@ This "lock-on-checkout" approach is a highly scalable and robust pattern that en
 
 #### SCREENSHOTS:
 
-[<img src="docs/images/img_01.png" width="500"/>]()
-[<img src="docs/images/img_03.png" width="500"/>]()
+[<img src="docs/images/img_01.png" width="300"/>]()
+[<img src="docs/images/img_03.png" width="300"/>]()
 
-[<img src="docs/images/img_02.png" width="500"/>]()
-[<img src="docs/images/img_04.png" width="500"/>]()
+[<img src="docs/images/img_02.png" width="300"/>]()
+[<img src="docs/images/img_04.png" width="300"/>]()
 
-[<img src="docs/images/img_05.png" width="500"/>]()
-[<img src="docs/images/img_06.png" width="500"/>]()
+[<img src="docs/images/img_05.png" width="300"/>]()
+[<img src="docs/images/img_06.png" width="300"/>]()
 
-[<img src="docs/images/img_07.png" width="500"/>]()
-[<img src="docs/images/img_08.png" width="500"/>]()
+[<img src="docs/images/img_07.png" width="300"/>]()
+[<img src="docs/images/img_08.png" width="300"/>]()
 
-[<img src="docs/images/img_09.png" width="500"/>]()
-[<img src="docs/images/img_10.png" width="500"/>]()
+[<img src="docs/images/img_09.png" width="300"/>]()
+[<img src="docs/images/img_10.png" width="300"/>]()
 
-[<img src="docs/images/img_11.png" width="500"/>]()
-[<img src="docs/images/img_12.png" width="500"/>]()
+[<img src="docs/images/img_11.png" width="300"/>]()
+[<img src="docs/images/img_12.png" width="300"/>]()
 
-[<img src="docs/images/img_13.png" width="500"/>]()
-[<img src="docs/images/img_14.png" width="500"/>]()
+[<img src="docs/images/img_13.png" width="300"/>]()
+[<img src="docs/images/img_14.png" width="300"/>]()
 
-[<img src="docs/images/img_15.png" width="500"/>]()
-[<img src="docs/images/img_16.png" width="500"/>]()
+[<img src="docs/images/img_15.png" width="300"/>]()
+[<img src="docs/images/img_16.png" width="300"/>]()
 
-[<img src="docs/images/img_17.png" width="500"/>]()
-[<img src="docs/images/img_18.png" width="500"/>]()
+[<img src="docs/images/img_17.png" width="300"/>]()
+[<img src="docs/images/img_18.png" width="300"/>]()
 
-[<img src="docs/images/img_19.png" width="500"/>]()
-[<img src="docs/images/img_20.png" width="500"/>]()
+[<img src="docs/images/img_19.png" width="300"/>]()
+[<img src="docs/images/img_20.png" width="300"/>]()
 
-[<img src="docs/images/img_21.png" width="500"/>]()
-[<img src="docs/images/img_22.png" width="500"/>]()
+[<img src="docs/images/img_21.png" width="300"/>]()
+[<img src="docs/images/img_22.png" width="300"/>]()
 
-[<img src="docs/images/img_23.png" width="500"/>]()
-[<img src="docs/images/img_24.png" width="500"/>]()
+[<img src="docs/images/img_23.png" width="300"/>]()
+[<img src="docs/images/img_24.png" width="300"/>]()
 
-[<img src="docs/images/img_25.png" width="500"/>]()
-[<img src="docs/images/img_26.png" width="500"/>]()
+[<img src="docs/images/img_25.png" width="300"/>]()
+[<img src="docs/images/img_26.png" width="300"/>]()
 
-[<img src="docs/images/img_27.png" width="500"/>]()
-[<img src="docs/images/img_28.png" width="500"/>]()
+[<img src="docs/images/img_27.png" width="300"/>]()
+[<img src="docs/images/img_28.png" width="300"/>]()
 
-[<img src="docs/images/img_29.png" width="500"/>]()
-[<img src="docs/images/img_30.png" width="500"/>]()
+[<img src="docs/images/img_29.png" width="300"/>]()
+[<img src="docs/images/img_30.png" width="300"/>]()
