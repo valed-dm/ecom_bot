@@ -106,6 +106,10 @@ A showcase of a robust, asynchronous e-commerce bot built with Python, Aiogram 3
 
 ---
 
+## Tests
+
+[<img src="docs/images/img_31.png" width="1000"/>]()
+
 ## Running the Bot
 To start the bot, run the main application file from the project root:
 ```bash
