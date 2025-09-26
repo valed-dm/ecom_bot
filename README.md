@@ -110,6 +110,10 @@ A showcase of a robust, asynchronous e-commerce bot built with Python, Aiogram 3
 
 [<img src="docs/images/img_31.png" width="1000"/>]()
 
+## Formatting, Linters
+
+[<img src="docs/images/img_32.png" width="1000"/>]()
+
 ## Running the Bot
 To start the bot, run the main application file from the project root:
 ```bash
@@ -117,7 +121,7 @@ poetry run python src/ecombot/main.py
 ```
 
 
-    
+
 ## 🚀 Features & Workflow
 
 This bot provides a complete, end-to-end e-commerce experience with distinct workflows for customers and administrators.
@@ -183,7 +187,7 @@ The admin panel provides powerful, protected tools to manage the entire store th
 - **Stock Integrity:** When an order is **cancelled**, the stock for the items in that order is **atomically and safely returned** to the inventory.
 
 
-    
+
 ### 🗄️ Database Schema
 
 The application is built on a robust, normalized relational database schema designed for data integrity, performance, and scalability. The schema is managed by **SQLAlchemy 2.0** (ORM) and version-controlled with **Alembic** migrations.
